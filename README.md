@@ -1,7 +1,8 @@
 # Scripts and Materials for MATLAB SBR Evaluation 
 ### (This repository is supplementary material for the relevant conference paper)
 
-_Please read the instructions carefully in order to run the MATLAB simulations accordingly using the right loaded data!_
+_Please read the instructions carefully in order to run the MATLAB simulations accordingly using the right loaded data! This repository is the supplementary amterial to reproduce the results shown in the paper here: https://ieeexplore.ieee.org/document/10776141
+Additionally, these can also be used to experiment further on the results provided in the paper, depending on your use case._
 
 + Requirements
   
