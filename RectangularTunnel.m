@@ -57,7 +57,7 @@ tic
     rays = raytrace(tx, rx, pm, "Map",viewer);
 toc
 %%
-%this section alculates the recevied signal strength per receiver
+%this section calculates the recevied signal strength per receiver
 %corresponding to the same receiver number
 
 %the writetable function is also optional here, in case the values of
